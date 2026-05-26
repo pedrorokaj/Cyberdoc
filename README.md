@@ -1,6 +1,6 @@
-﻿# CyberDoc
+﻿# Viverium
 
-CyberDoc is a modern cybersecurity solution designed to protect documents, networks, and corporate environments.
+Viverium is a modern cybersecurity solution designed to protect documents, networks, and corporate environments.
 
 ## Features
 
@@ -12,4 +12,4 @@ CyberDoc is a modern cybersecurity solution designed to protect documents, netwo
 
 ## Website
 
-Official CyberDoc website.
+Official Viverium website.
